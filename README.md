@@ -1,1 +1,2 @@
 # Attendance-Marker-ID-Card-Generator
+Using this you can create id cards and also mark your attendance by scanning the id card, but this will work only if you scan it using the inbuilt scanner. The attendance will be saved in a file named "Data for ID Generator.xlsx". You can clear the data anytime through the software. To generate ID CARD enter 1 when asked. Then enter the details asked and your id would be saved in the same folder in which the python code is.
